@@ -1,4 +1,4 @@
-# Bharat-Intern
+# Bharat-Intern Task - 1
 
 Forecasting the sales of a supermarket :
 A supermarket has various departments, and it must stock up items that will be in demand in each of these departments. 
